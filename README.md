@@ -65,7 +65,7 @@ Creative-Agency-Web/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Creative-Agency-Web.git
+git clone https://github.com/MohamedKhaled31/Creative-Agency-Web.git
 ```
 
 ### Open the project
